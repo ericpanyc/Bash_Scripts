@@ -4,3 +4,5 @@ If you are first using the generate_cloud.sh, please first install the following
 2.word_cloud--------------https://github.com/amueller/word_cloud
 
 To see help message about the script, please excute it without any options.
+
+ATTENTION: Right now, for the mask option, you can only use circle.
