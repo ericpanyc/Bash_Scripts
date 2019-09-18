@@ -1,4 +1,4 @@
 pubmed.txt
-'.*\.png'
+*.png
 
 
